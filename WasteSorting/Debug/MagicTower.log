@@ -1,0 +1,32 @@
+﻿生成启动时间为 2019/12/24 16:03:08。
+     1>项目“D:\software\CodingStudy\Study711\project\RPG答辩-G43-杨凌锋\WasteSorting\MagicTower.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Array.cpp ArrayTask.cpp Bag.cpp Drug.cpp Equip.cpp FrameUI.cpp Func\func.cpp Game.cpp main.cpp Map.cpp Player.cpp Prop.cpp Rival.cpp Store.cpp Task.cpp
+         Task.cpp
+         Store.cpp
+         Rival.cpp
+         Prop.cpp
+         Player.cpp
+         Map.cpp
+     1>d:\software\codingstudy\study711\project\rpg答辩-g43-杨凌锋\wastesorting\map.cpp(42): error C2059: 语法错误:“,”
+     1>d:\software\codingstudy\study711\project\rpg答辩-g43-杨凌锋\wastesorting\map.cpp(46): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>d:\software\codingstudy\study711\project\rpg答辩-g43-杨凌锋\wastesorting\map.cpp(46): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+         main.cpp
+         Game.cpp
+         func.cpp
+     1>d:\software\codingstudy\study711\project\rpg答辩-g43-杨凌锋\wastesorting\func\func.cpp(244): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\conio.h(131) : 参见“getch”的声明
+         FrameUI.cpp
+         Equip.cpp
+         Drug.cpp
+         Bag.cpp
+         ArrayTask.cpp
+         Array.cpp
+         正在生成代码...
+     1>d:\software\codingstudy\study711\project\rpg答辩-g43-杨凌锋\wastesorting\rival.cpp(115): warning C4715: “Rival::creatRival”: 不是所有的控件路径都返回值
+     1>d:\software\codingstudy\study711\project\rpg答辩-g43-杨凌锋\wastesorting\task.cpp(170): warning C4715: “Task::creatTask”: 不是所有的控件路径都返回值
+     1>已完成生成项目“D:\software\CodingStudy\Study711\project\RPG答辩-G43-杨凌锋\WasteSorting\MagicTower.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:16.11

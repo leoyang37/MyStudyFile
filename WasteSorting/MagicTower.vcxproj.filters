@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Func">
+      <UniqueIdentifier>{2b6c4f4d-e5d0-488e-9bbd-6978c6f5ce16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="商城物品类">
+      <UniqueIdentifier>{a6f94071-dd60-4232-b2e3-e37ca6119831}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="对手/垃圾">
+      <UniqueIdentifier>{94befb41-4452-450e-b6d8-560ba819083e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="任务类">
+      <UniqueIdentifier>{45f88485-4766-4b34-9850-50cc084b5c47}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FrameUI">
+      <UniqueIdentifier>{2d99696a-3772-465d-990a-bc7e3d522271}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="动态数组">
+      <UniqueIdentifier>{81b20127-c8be-4d08-a497-f7c0e2fdb0cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="道具组">
+      <UniqueIdentifier>{4d9aa481-37f0-4822-8f2a-4154c6d47a55}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Map.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Bag.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Store.h">
+      <Filter>商城物品类</Filter>
+    </ClInclude>
+    <ClInclude Include="Func\func.h">
+      <Filter>Func</Filter>
+    </ClInclude>
+    <ClInclude Include="Rival.h">
+      <Filter>对手/垃圾</Filter>
+    </ClInclude>
+    <ClInclude Include="Task.h">
+      <Filter>任务类</Filter>
+    </ClInclude>
+    <ClInclude Include="FrameUI.h">
+      <Filter>FrameUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Array.h">
+      <Filter>动态数组</Filter>
+    </ClInclude>
+    <ClInclude Include="ArrayTask.h">
+      <Filter>动态数组</Filter>
+    </ClInclude>
+    <ClInclude Include="Drug.h">
+      <Filter>道具组</Filter>
+    </ClInclude>
+    <ClInclude Include="Equip.h">
+      <Filter>道具组</Filter>
+    </ClInclude>
+    <ClInclude Include="Prop.h">
+      <Filter>道具组</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Map.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Bag.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Store.cpp">
+      <Filter>商城物品类</Filter>
+    </ClCompile>
+    <ClCompile Include="Func\func.cpp">
+      <Filter>Func</Filter>
+    </ClCompile>
+    <ClCompile Include="Rival.cpp">
+      <Filter>对手/垃圾</Filter>
+    </ClCompile>
+    <ClCompile Include="Task.cpp">
+      <Filter>任务类</Filter>
+    </ClCompile>
+    <ClCompile Include="FrameUI.cpp">
+      <Filter>FrameUI</Filter>
+    </ClCompile>
+    <ClCompile Include="Array.cpp">
+      <Filter>动态数组</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayTask.cpp">
+      <Filter>动态数组</Filter>
+    </ClCompile>
+    <ClCompile Include="Drug.cpp">
+      <Filter>道具组</Filter>
+    </ClCompile>
+    <ClCompile Include="Equip.cpp">
+      <Filter>道具组</Filter>
+    </ClCompile>
+    <ClCompile Include="Prop.cpp">
+      <Filter>道具组</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
